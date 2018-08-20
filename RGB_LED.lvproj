@@ -22,9 +22,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Project Documentation" Type="Folder">
 			<Item Name="Documentation Images" Type="Folder">
-				<Item Name="myRIO_Project_Diagram.gif" Type="Document" URL="../documentation/myRIO_Project_Diagram.gif"/>
+				<Item Name="myRIO_Project_Diagram.gif" Type="Document" URL="../../TricolorLED/documentation/myRIO_Project_Diagram.gif"/>
 			</Item>
-			<Item Name="myRIO Project Documentation.html" Type="Document" URL="../documentation/myRIO Project Documentation.html"/>
+			<Item Name="myRIO Project Documentation.html" Type="Document" URL="../../TricolorLED/documentation/myRIO Project Documentation.html"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
